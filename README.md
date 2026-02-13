@@ -13,7 +13,7 @@ The glossary is constantly improved by the CART210 community throughout the term
 
 Each student must:
 
-- choose ONE term from the provided list of new media keywords
+- choose ONE term from the suggested list of new media keywords
 - conduct research to understand each term's relevance in the context of new media. Explore its historical origins, technological significance, and its influence on contemporary digital culture and society.
 - write precise definitions for the chosen terms, addressing the following points in your analysis: why is the term significant in new media? how does it relate to current technologies or media practices? what are paradigmatic examples that illustrate the term or technology? identify the person or group that coined, designed, or popularized the term or technology, if applicable.
 - use the Chicago Author-Year citation style strictly for all sources. Each term should reference a minimum of three sources, from which at least two must be academic sources (e.g., books, journal articles, or conference papers).
