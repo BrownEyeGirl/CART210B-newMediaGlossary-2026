@@ -7,7 +7,7 @@ Generative AI relies on latent spaces, enabling AI art, storytelling, and intera
 
 ### Bibliography
 
-[^drapala] 1. Drapala, Jaroslaw. What is a latent space?. A concise explanation for the general… | by Jaroslaw Drapala | TDS archive | medium. Accessed February 22, 2026. https://medium.com/data-science/what-is-a-latent-space-065eb8e3f859.
-[^larson] 2. Jacob Larson, James S. Denford, Niam Yaraghi, Nicol Turner Lee Regina Ta, Kennedy Satterfield Morgan Gray, and Aylin Caliskan Kyra Wilson. “Rendering Misrepresentation: Diversity Failures in AI Image Generation.” Brookings, April 18, 2024. https://www.brookings.edu/articles/rendering-misrepresentation-diversity-failures-in-ai-image-generation/.
-[^sivalingam] 3. Sivalingam, Ampatishan. “Latent Space: The Most Important Place That Doesn’t Exist | by Ampatishan Sivalingam | Feb, 2026 | towards Ai.” Medium, February 16, 2026. https://pub.towardsai.net/latent-space-the-most-important-place-that-doesnt-exist-643a6497c208. 
+[^drapala]: 1. Drapala, Jaroslaw. What is a latent space?. A concise explanation for the general… | by Jaroslaw Drapala | TDS archive | medium. Accessed February 22, 2026. https://medium.com/data-science/what-is-a-latent-space-065eb8e3f859.
+[^larson]: 2. Jacob Larson, James S. Denford, Niam Yaraghi, Nicol Turner Lee Regina Ta, Kennedy Satterfield Morgan Gray, and Aylin Caliskan Kyra Wilson. “Rendering Misrepresentation: Diversity Failures in AI Image Generation.” Brookings, April 18, 2024. https://www.brookings.edu/articles/rendering-misrepresentation-diversity-failures-in-ai-image-generation/.
+[^sivalingam]: 3. Sivalingam, Ampatishan. “Latent Space: The Most Important Place That Doesn’t Exist | by Ampatishan Sivalingam | Feb, 2026 | towards Ai.” Medium, February 16, 2026. https://pub.towardsai.net/latent-space-the-most-important-place-that-doesnt-exist-643a6497c208. 
 
