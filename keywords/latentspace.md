@@ -7,6 +7,8 @@ Latent space is significant in new media because it allows AI to efficiently gen
 <br/>
 Generative AI relies on latent spaces, enabling AI art, storytelling, and interactive media to be customized and personalized according to various parameters. However, this method of grouping data can amplify biases and stereotypes. The data is often organized based on what is commonly available, which can reinforce existing social biases related to race, gender, and social roles. For example, a vector representing wealth may primarily map to white representations of elites. Asking AI to generate an image of a wealthy woman may combine latent vectors for wealth and woman, which could also map to whiteness, subservience, and marriage vectors, affecting the tone and content of the generated image or story.[^sivalingam] <br/>
 
+![Virtual environment](latentspace.png)
+
 ### Bibliography
 
 [^drapala]: 1. Drapala, Jaroslaw. What is a latent space?. A concise explanation for the general… | by Jaroslaw Drapala | TDS archive | medium. Accessed February 22, 2026. https://medium.com/data-science/what-is-a-latent-space-065eb8e3f859.
