@@ -1,6 +1,6 @@
 ## Latent Space
 
-![Virtual environment](latentspace.png)
+![Virtual environment](/images/latentspace.png)
 
 Latent space is a multidimensional numerical space used for efficiently storing and modeling data, essentially functioning as a map for data points. It uses a mathematical framework of vectors to represent data such as images, text, or measurements by reducing them to smaller, abstract points[^larson]. The AI model organizes this data into categories represented by vectors that are correlated with each other. For example, in image generation, generative AI breaks down an image into latent vectors capturing factors like age, race, hairstyle, and emotional expression numerically.
 Generation is done through encoding and decoding data. First, models encode the data by capturing essential information in points while discarding less relevant details. This reduction in size increases the efficiency of the model. The model can then decode this information back into the original domain. Different points can be related to each other by moving along specific directions in the latent space, such as aging a face or changing an emotion while preserving other aspects of the data[^drapala]. 
